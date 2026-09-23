@@ -53,6 +53,7 @@
             // button1
             // 
             button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            button1.ForeColor = SystemColors.ActiveCaptionText;
             button1.Location = new Point(271, 43);
             button1.Name = "button1";
             button1.Size = new Size(73, 99);
@@ -64,6 +65,7 @@
             // button2
             // 
             button2.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            button2.ForeColor = SystemColors.ActiveCaption;
             button2.Location = new Point(271, 159);
             button2.Name = "button2";
             button2.Size = new Size(75, 74);
@@ -75,6 +77,7 @@
             // Subtract
             // 
             Subtract.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            Subtract.ForeColor = SystemColors.ActiveCaption;
             Subtract.Location = new Point(271, 267);
             Subtract.Name = "Subtract";
             Subtract.Size = new Size(75, 74);
@@ -86,6 +89,7 @@
             // Multiply
             // 
             Multiply.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            Multiply.ForeColor = SystemColors.ActiveCaption;
             Multiply.Location = new Point(271, 369);
             Multiply.Name = "Multiply";
             Multiply.Size = new Size(75, 74);
@@ -97,6 +101,7 @@
             // Divide
             // 
             Divide.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            Divide.ForeColor = SystemColors.ActiveCaption;
             Divide.Location = new Point(271, 463);
             Divide.Name = "Divide";
             Divide.Size = new Size(75, 74);
@@ -107,6 +112,7 @@
             // 
             // One
             // 
+            One.ForeColor = SystemColors.ActiveCaption;
             One.Location = new Point(6, 275);
             One.Name = "One";
             One.Size = new Size(58, 66);
@@ -117,6 +123,7 @@
             // 
             // Two
             // 
+            Two.ForeColor = SystemColors.ActiveCaption;
             Two.Location = new Point(70, 275);
             Two.Name = "Two";
             Two.Size = new Size(58, 66);
@@ -127,6 +134,7 @@
             // 
             // Three
             // 
+            Three.ForeColor = SystemColors.ActiveCaption;
             Three.Location = new Point(134, 275);
             Three.Name = "Three";
             Three.Size = new Size(58, 66);
@@ -137,6 +145,7 @@
             // 
             // Four
             // 
+            Four.ForeColor = SystemColors.ActiveCaption;
             Four.Location = new Point(6, 347);
             Four.Name = "Four";
             Four.Size = new Size(58, 66);
@@ -147,6 +156,7 @@
             // 
             // Five
             // 
+            Five.ForeColor = SystemColors.ActiveCaption;
             Five.Location = new Point(70, 347);
             Five.Name = "Five";
             Five.Size = new Size(58, 66);
@@ -157,6 +167,7 @@
             // 
             // Six
             // 
+            Six.ForeColor = SystemColors.ActiveCaption;
             Six.Location = new Point(134, 347);
             Six.Name = "Six";
             Six.Size = new Size(58, 64);
@@ -167,6 +178,7 @@
             // 
             // Seven
             // 
+            Seven.ForeColor = SystemColors.ActiveCaption;
             Seven.Location = new Point(6, 419);
             Seven.Name = "Seven";
             Seven.Size = new Size(58, 64);
@@ -177,6 +189,7 @@
             // 
             // Eight
             // 
+            Eight.ForeColor = SystemColors.ActiveCaption;
             Eight.Location = new Point(70, 419);
             Eight.Name = "Eight";
             Eight.Size = new Size(58, 64);
@@ -187,6 +200,7 @@
             // 
             // Nine
             // 
+            Nine.ForeColor = SystemColors.ActiveCaption;
             Nine.Location = new Point(134, 419);
             Nine.Name = "Nine";
             Nine.Size = new Size(58, 64);
@@ -197,6 +211,7 @@
             // 
             // Zero
             // 
+            Zero.ForeColor = SystemColors.ActiveCaption;
             Zero.Location = new Point(7, 495);
             Zero.Name = "Zero";
             Zero.Size = new Size(121, 42);
@@ -207,6 +222,7 @@
             // 
             // Decimal
             // 
+            Decimal.ForeColor = SystemColors.ActiveCaption;
             Decimal.Location = new Point(131, 495);
             Decimal.Name = "Decimal";
             Decimal.Size = new Size(61, 42);
@@ -242,6 +258,7 @@
             // Clear
             // 
             Clear.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            Clear.ForeColor = SystemColors.ActiveCaption;
             Clear.Location = new Point(198, 369);
             Clear.Name = "Clear";
             Clear.Size = new Size(67, 168);
